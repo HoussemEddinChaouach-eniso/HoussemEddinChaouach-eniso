@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Houssem Eddin Chaouach
 
-<!--
-**HoussemEddinChaouach-eniso/HoussemEddinChaouach-eniso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 3rd year engineering student at ENISo, specializing in Applied Computer Science
+- 🤖 Interested in AI, machine learning, and innovative tech projects
+- 🌍 Based in Sousse, Tunisia
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | Java | C | C# | C++ | Angular | React | Django | Flask | .NET | Machine Learning | Deep Learning | Data Science | Network Administration | Network Security | Big Data | Data Analysis
+
+## 📫 Contact
+
+- Email: houssemeddine.chaouach@eniso.u-sousse.tn
+- LinkedIn: [Your LinkedIn URL]
+- Location: Sousse, Tunisia
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussemEddinChaouach-eniso&show_icons=true)
