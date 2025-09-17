@@ -11,9 +11,9 @@ Python | Java | C | C# | C++ | Angular | React | Django | Flask | .NET | Machine
 ## 📫 Contact
 
 - Email: houssemeddine.chaouach@eniso.u-sousse.tn
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/houssem-eddin-chaouach-2042592a7/
 - Location: Sousse, Tunisia
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussemEddinChaouach-eniso&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemEddinChaouach-eniso&show_icons=true&theme=default)
