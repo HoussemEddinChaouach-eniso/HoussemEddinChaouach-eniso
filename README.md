@@ -8,7 +8,7 @@
 ## 🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cs,cpp,angular,react,django,flask,dotnet,tensorflow,pytorch,postgresql,mongodb,vscode,kaggle,linux,androidstudio,git,oracle,typescript,js,anaconda,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cs,cpp,angular,react,django,flask,dotnet,tensorflow,pytorch,postgresql,mongodb,vscode,kaggle,linux,androidstudio,git,unrealengine,typescript,js,anaconda,mysql" />
   </a>
 </p>
 
