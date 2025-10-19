@@ -6,8 +6,11 @@
 - 🌍 Based in Sousse, Tunisia
 
 ## 🚀 Skills
-
-Python | Java | C | C# | C++ | Angular | React | Django | Flask | .NET | Machine Learning | Deep Learning | Data Science | Network Administration | Network Security | Big Data | Data Analysis
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cs,cpp,angular,react,django,flask,dotnet,tensorflow,pytorch" />
+  </a>
+</p>
 
 ## 📫 Contact
 
