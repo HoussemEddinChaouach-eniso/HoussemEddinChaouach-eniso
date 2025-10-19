@@ -1,6 +1,4 @@
-# Your Name
-
-<img src="Capture d'écran 2025-10-19 092806.png" alt="Profile banner" width="200" height="200">
+<img src="Capture d'écran 2025-10-19 092806.png" alt="Profile banner" width="2000" height="2000">
 
 ## About Me
 Your description here...
