@@ -1,3 +1,9 @@
+# Your Name
+
+<img src="" alt="Profile Picture" width="200" height="200">
+
+## About Me
+Your description here...
 # 👋 Hi, I'm Houssem Eddin Chaouach
 
 - 🎓 3rd year engineering student at ENISo, specializing in Applied Computer Science
