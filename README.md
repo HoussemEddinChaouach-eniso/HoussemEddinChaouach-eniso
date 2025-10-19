@@ -1,7 +1,4 @@
 <img src="Capture d'écran 2025-10-19 092806.png" alt="Profile banner" width="2000" height="2000">
-
-## About Me
-Your description here...
 # 👋 Hi, I'm Houssem Eddin Chaouach
 
 - 🎓 3rd year engineering student at ENISo, specializing in Applied Computer Science
